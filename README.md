@@ -11,7 +11,7 @@ Get Implement Passport.js authentication with Sails.js 1.0.1
     cd oAuthy-SailsJS-PassportJS-MongoDB-Authentication
 
 
-#2. Download your Dependencies via NPM 
+#2. Start MongoDB
 
     start your MongoDB Database 
 
