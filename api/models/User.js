@@ -9,9 +9,20 @@ const bcrypt = require('bcrypt-nodejs');
 module.exports = {
 
   attributes: {
+
+    /*
       email: {
         type: 'string',
         isEmail: true,
+        unique: false,
+        required: false
+      },
+*/
+      email: {
+        type: 'string',
+        required: true,
+        unique: true,
+        isEmail: true
       },
     username: {
       type: 'string',
