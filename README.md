@@ -49,7 +49,7 @@ Get Implement Passport.js authentication with Sails.js 1.0.1
 
 # Install Video
 
-[![IMAGE ALT Install Video ](https://www.youtube.com/watch?v=yTVuXrIsB18)](https://www.youtube.com/watch?v=yTVuXrIsB18)
+[![IMAGE ALT Install Video ](https://i.ytimg.com/vi/yTVuXrIsB18/hqdefault.jpg)](https://www.youtube.com/watch?v=yTVuXrIsB18)
 
 
 
