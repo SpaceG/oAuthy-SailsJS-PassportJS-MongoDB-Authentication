@@ -17,7 +17,7 @@ Get Implement Passport.js authentication with Sails.js 1.0.1
 
    # 1 open 2 Windows in Terminal
 
-    $ $ /usr/local
+    $ $ cd /usr/local
 
     $ cd bin
 
