@@ -4,6 +4,7 @@ Get Implement Passport.js authentication with Sails.js 1.0.1
 
 ![Alt text](https://github.com/SpaceG/oAuthy-SailsJS-PassportJS-MongoDB-Authentication/blob/master/assets/images/sailsjspassportjsmongodb.png "Optional Title")
 
+![Alt text](https://sailsjshacker.co/wp-content/uploads/2018/04/front-row-1024x161.png "Optional Title")
 
 
 
