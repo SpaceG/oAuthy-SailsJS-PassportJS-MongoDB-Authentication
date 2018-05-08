@@ -2,16 +2,16 @@
 Get Implement Passport.js authentication with Sails.js 1.0.1
 
 
-# To RUn it on your Machine
+# To Run it on your Machine
 
-#1. Git Clone 
+# 1. Git Clone 
 
     $ git clone https://github.com/SpaceG/oAuthy-SailsJS-PassportJS-MongoDB-Authentication.git
 
     cd oAuthy-SailsJS-PassportJS-MongoDB-Authentication
 
 
-#2. Start MongoDB
+# 2. Start MongoDB
 
     start your MongoDB Database 
 
@@ -29,11 +29,11 @@ Get Implement Passport.js authentication with Sails.js 1.0.1
 
     $ mongo
 
-#3. Download your Dependencies via NPM 
+# 3. Download your Dependencies via NPM 
 
     $ npm install 
 
-#4. Start Your Server 
+# 4. Start Your Server 
 
      $ sails lift 
 
