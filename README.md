@@ -46,8 +46,10 @@ Get Implement Passport.js authentication with Sails.js 1.0.1
 
      $ sails lift 
 
-    
 
+# Install Video
+    
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/yTVuXrIsB18" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 The MIT License (MIT)
