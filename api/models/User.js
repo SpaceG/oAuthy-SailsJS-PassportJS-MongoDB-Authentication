@@ -22,16 +22,6 @@ module.exports = {
       type: 'string',
       required: true
     },
-    state: {
-      type: 'string',
-      enum: ['pending', 'approved', 'denied'],
-      defaultsTo: 'pending'
-    },
-    provider: {
-      type: 'string',
-      enum: ['local', 'github', 'twitter'],
-      defaultsTo: 'local'
-    },
     uid: {
       type: 'string'
     },
